@@ -1,7 +1,8 @@
 # What it is
 - This app is an introduction to RealityKit, which renders AR content in SwiftUI context. 
 - The app creates a cube mesh, and RealityKit places it in the camera view once it detects a horizontal plane. There is a button that you can tap on to scale the cube mesh by a factor of two every time you tap it.
-- The purpose of this app is to give you a quick glance at how you can make AR content in SwiftUI.
+- The purpose of this app is to give you a quick glance at how you can make AR content in SwiftUI using RealityKit.
+- Note that in the session I didn't go over the code line by line so some code in this app might seem confusing. One way you can learn is by going to ChatGPT and ask what this line does in the whole app.  
 
 # Installation & Run
 - To run the app, simply clone this repo to your local end or download it directly and then open on Xcode.
